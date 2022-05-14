@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abiodun. Olorunsogo
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning Python
 <!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me:
      abiodun0075@gmail.com,
