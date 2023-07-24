@@ -10,7 +10,7 @@ Data Scientist with an eye for Productivity in the <b><ul><li>Economic Sector</l
 #### 🇳🇬 by birth, 
 
 I love bright and motivated minds, let's work together.
-- Reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/)](https://www.linkedin.com/in/abiodun-awoyemi-1ab8b3165/) 
+- Reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/)](https://www.linkedin.com/in/imabiodun/) 
  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abiodun0075@gmail.com)](mailto:abiodun0075@gmail.com)
  [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/imabiodun)](https://twitter.com/imabiodun)
 
