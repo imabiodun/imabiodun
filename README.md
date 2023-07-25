@@ -1,8 +1,8 @@
 <!--### Hi there 👋-->
-## Hi, I'm <caps>Abi</caps>?. Let me tell you about him <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="25px">
+## Hi, Call me <caps>Abi</caps>?<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="25px">
 
 
-I'm Abiodun. A Data Science Junior, I breathe <b><ul><li>Mathematics</li> <li>Technology</li></ul></b>. 
+A Data Science Junior, I breathe <b><ul><li>Mathematics</li> <li>Technology</li></ul></b>. 
 Data Scientist with interest of using Technology in <b><ul><li><h3>Economics</h3></li><li><h4>Agriculture</h4></li> <li> <h6>Health</h6></li></ul></b> through bulding of models, and making Predictions
 #### Aim to make Humans make better decision through my work.
 ###### Hope I gave you no little ![Static Badge](https://img.shields.io/badge/wow-effect?link=%3Cdiv%20style%3D%22width%3A100%25%3Bheight%3A0%3Bpadding-bottom%3A101%25%3Bposition%3Arelative%3B%22%3E%3Ciframe%20src%3D%22https%3A%2F%2Fgiphy.com%2Fembed%2FVGDrfwcMq5hr11Qkdn%22%20width%3D%22100%25%22%20height%3D%22100%25%22%20style%3D%22position%3Aabsolute%22%20frameBorder%3D%220%22%20class%3D%22giphy-embed%22%20allowFullScreen%3E%3C%2Fiframe%3E%3C%2Fdiv%3E%3Cp%3E%3Ca%20href%3D%22https%3A%2F%2Fgiphy.com%2Fgifs%2Fwow-badge-wowza-VGDrfwcMq5hr11Qkdn%22%3Evia%20GIPHY%3C%2Fa%3E%3C%2Fp%3E) effect. 
