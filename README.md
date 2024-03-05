@@ -1,30 +1,34 @@
 <!--### Hi there 👋-->
-## Hi<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="25px"> Call me <caps>Abi</caps>?
+<div align='center'>Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="25px"><br><p> I am Abiodun</p><p>Data Scientist</p><hr><!--I breathe <b><ul><li>Mathematics</li> <li>Technology</li></ul></b--></div>
+<div>
+Leveraging advanced analytical techniques and data-driven insights to solve complex problems, identify pattern, build models and support better data-driven decision-making.</div><br><br>
+
+
+👯 Interest: <ul><li>Education</li><li>Agriculture</li></ul>
 <br>
-A Data Science Junior<br><!--I breathe <b><ul><li>Mathematics</li> <li>Technology</li></ul></b--><br>
-I specialize in leveraging advanced analytical techniques and data-driven insights to solve complex problems, identify pattern, build models and support data-driven decision-making.<br>
-Data Scientist with interest of using Technology in <b><ul><li><h3>Education</h3></li><li><h4>Agriculture</h4></li> <li> <h6>Life</h6></li></ul></b> through bulding of models, and making Predictions
-#### Aim to make Humans make better decisions through my work.
+<!-- </b> through bulding of models, and making Predictions -->
+<!-- #### Aim to make Humans make better decisions through my work.
 #### Human by Nature <img src='https://emojiguide.com/animals-nature/evergreen-tree/'>🌴
 #### 🇳🇬 by location, 
-
-I will love to work with bright and motivated minds.
-Reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/)](https://www.linkedin.com/in/imabiodun/) 
+ -->
+<!-- I will love to work with bright and motivated minds. -->
+<!-- <div align='center'></div> -->
+🤔 I’m looking for help with more Datasets on Education
+ 
+ 📫:
+ [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/)](https://www.linkedin.com/in/imabiodun/) 
  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abiodun0075@gmail.com)](mailto:abiodun0075@gmail.com)
  [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/imabiodun)](https://twitter.com/imabiodun)
 
 ## 🔧 Languages and Tools
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=000000&color=238636&labelColor=F7DF1E)
-![](https://img.shields.io/badge/MongoDB-informational?style=flat&logo=mongodb&logoColor=47A248&color=238636&labelColor=000)
 ![](https://img.shields.io/badge/MySQL-informational?style=flat&logo=mysql&logoColor=ffffff&color=238636&labelColor=4479A1)
 ![](https://img.shields.io/badge/GIT-informational?style=flat&logo=git&logoColor=ffffff&color=238636&labelColor=F05032)
 ![](https://img.shields.io/badge/GitHub-informational?style=flat&logo=github&logoColor=ffffff&color=238636&labelColor=181717)
 ![](https://img.shields.io/badge/VS%20Code-informational?style=flat&logo=visual-studio-code&logoColor=007ACC&color=238636&labelColor=ffffff)
-![](https://img.shields.io/badge/Linux-informational?style=flat&logo=linux&logoColor=000000&color=238636&labelColor=FCC624)
 
 ## 📈 GitHub Stats
 
